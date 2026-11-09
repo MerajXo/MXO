@@ -28,58 +28,6 @@
   ],
   "software": [
     {
-      "id": "mxo-title-kit",
-      "name": "MXO Title Kit",
-      "category": "plugin",
-      "type": "After Effects plugin",
-      "version": "2.0.1",
-      "author": "MERAJXO",
-      "tagline": "36 drag-and-drop neon titles for After Effects.",
-      "description": "A template pack + extension with 36 editable neon/glow title scenes. Every scene is expression-driven: change one slider and the whole animation retimes itself.",
-      "icon": "https://picsum.photos/seed/titlekit/256",
-      "platforms": [
-        "windows",
-        "macos"
-      ],
-      "tags": [
-        "after effects",
-        "titles",
-        "neon",
-        "templates"
-      ],
-      "license": "Royalty-free for commercial work",
-      "price": "Free",
-      "featured": false,
-      "website": "https://merajxo.com/software/mxo-title-kit",
-      "downloadUrl": "https://github.com/m34official/MXO/releases/download/v2.0.1/MXOTitleKit.zip",
-      "downloads": [],
-      "sourceUrl": "",
-      "requirements": [
-        "After Effects 2022 or newer",
-        "1920×1080 or larger comp"
-      ],
-      "setup": [
-        {
-          "title": "Install the extension",
-          "description": "Copy the MXO Title Kit folder into the CEP extensions directory and restart After Effects.",
-          "code": "C:\\Program Files (x86)\\Common Files\\Adobe\\CEP\\extensions\\"
-        },
-        {
-          "title": "Open the panel",
-          "description": "Window → Extensions → MXO Title Kit. Double-click any scene to import it into your project.",
-          "code": ""
-        },
-        {
-          "title": "Enable player debugging",
-          "description": "Only needed if the panel opens as a blank window.",
-          "code": "HKCU\\Software\\Adobe\\CSXS.11 → PlayerDebugMode = 1"
-        }
-      ],
-      "config": [],
-      "createdAt": "2025-08-14",
-      "updatedAt": "2026-01-20"
-    },
-    {
       "id": "adobe-after-effects-2026",
       "name": "Adobe After Effects 2026",
       "category": "app",
