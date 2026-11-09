@@ -88,16 +88,5 @@
       ]
     }
   ],
-  "collections": [
-    {
-      "id": "col-949617",
-      "title": "test me",
-      "index": 4,
-      "trackIds": [
-        "track-825141",
-        "track-746104",
-        "track-237819"
-      ]
-    }
-  ]
+  "collections": []
 }
