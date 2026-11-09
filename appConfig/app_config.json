@@ -17,7 +17,7 @@
   "showEffects": true,
   "showSoftware": true,
   "showMusic": true,
-  "showLanding": true,
+  "showLanding": false,
   "showAbout": true,
   "showBlog": true,
   "showTestimonials": true,
