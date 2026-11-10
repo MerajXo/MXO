@@ -1,0 +1,85 @@
+{
+  "projects": [
+    {
+      "id": "comic-cosmic-assignment",
+      "title": "Comic & Cosmic Assignment",
+      "category": "motion_graphics",
+      "description": "",
+      "intro": null,
+      "tagline": null,
+      "youtubeId": null,
+      "thumbnail": "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/comic-cosmic-assignment-comi/sawx_magazine_cover.jpg",
+      "breakdowns": [
+        {
+          "id": "",
+          "title": "More of this",
+          "images": [
+            "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/comic-cosmic-assignment-comi/surreal_dream_universe.jpg"
+          ]
+        }
+      ],
+      "effectIds": [],
+      "softwareIds": [],
+      "fontIds": [],
+      "tags": [
+        "magazine",
+        "comic",
+        "surreal dram",
+        "manipulation",
+        "blender",
+        "3d animation"
+      ],
+      "keywords": [],
+      "dominantColors": [],
+      "previewImages": [],
+      "variants": [],
+      "faq": [
+        {
+          "question": "Can I Customize?",
+          "answer": "Yes, with the basic knowledge of Adobe Photoshop, you can customize the psd file."
+        }
+      ],
+      "files": [],
+      "spec": {
+        "aspectRatio": "9:16",
+        "formats": [
+          ".psd"
+        ]
+      },
+      "translations": {},
+      "client": "Fuad Badhon",
+      "year": 2025,
+      "license": "cc_by_nc",
+      "licenseUrl": null,
+      "commercialUseAllowed": true,
+      "attributionRequired": false,
+      "redistributionAllowed": true,
+      "status": "published",
+      "visibility": "public",
+      "featured": true,
+      "version": "1.0.0",
+      "originalPublishDate": null,
+      "sourceUrl": null,
+      "altText": null,
+      "metaDescription": null,
+      "subcategory": "",
+      "style": "",
+      "mood": "",
+      "industry": "",
+      "ogImage": null,
+      "livePreviewUrl": "mxstage://1794321486117475-0-1",
+      "embedSnippet": null,
+      "isFree": true,
+      "price": null,
+      "currency": "USD",
+      "payWhatYouWant": true,
+      "payWhatYouWantMin": null,
+      "subscriptionTier": "free",
+      "supportUrl": null,
+      "issueTrackerUrl": null,
+      "commentsEnabled": true,
+      "createdAt": "2026-11-10",
+      "updatedAt": "2026-11-10"
+    }
+  ]
+}
